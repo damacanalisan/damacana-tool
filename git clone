@@ -1,0 +1,21 @@
+damacana-tool kali linux üzerinden çalıştırmak için aşağıdaki kodu terminale yapıştırın
+git clone https://github.com/damacanalisan/damacana-tool.git
+
+ardından aşağıdakini yazın
+cd damacana-tool
+
+toolu çalıştırmak için ise 
+python3 main.py
+
+NOTE
+tool kali linux için üğretilmiştir
+python3 gereklidir 
+root yetkisi gerekmez
+eğitim ve savunma amaçlıdır
+
+YASAL UYARI
+bu araç yalnızca:
+eğitim
+güvenlik farkındalığı
+savunma amaçlı analiz
+için geliştirilmiştir kötüye kullanım kullanıcının kendi sorumluluğundadır.
