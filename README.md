@@ -58,3 +58,5 @@ Kali Linux’ta Python genelde yüklü gelir. Kontrol etmek için:
 
 ```bash
 python3 --version
+
+<img width="668" height="862" alt="Ekran görüntüsü 2026-02-06 171859" src="https://github.com/user-attachments/assets/c6141c6f-59d7-471d-a9be-17b7d1251e1d" />
